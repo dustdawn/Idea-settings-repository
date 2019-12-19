@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="trailer" />
+      <item value="Nullable &lt;T&gt; T findById(Object id, Class&lt;T&gt; entityClass, String collectionName); /** * Triggers &lt;a href=&quot;https://docs.mongodb.org/manual/reference/method/db.collection.findAndModify/&quot;&gt;findAndModify * &lt;a/&gt; to apply provided {@link Update} on documents matching {@link Criteria} of given {@link Query}. * * @param query the {@link Query} class that specifies the {@link Criteria} used to find a record and also an optional * fields specification. Must not be {@literal null}. * @param update the {@link Update} to apply on matching documents. Must not be {@literal null}. * @param entityClass the parametrized type. Must not be {@literal null}. * @return the converted object that was updated before it was updated or {@literal null}, if not found." />
+      <item value="Process finished with exit code 0" />
+      <item value="&quot;C:\Program Files\Java\jdk1.8.0_144\bin\java.exe&quot; &quot;-javaagent:D:\Program Files\JetBrains\IntelliJ IDEA 2018.3.2\lib\idea_rt.jar=60134:D:\Program Files\JetBrains\IntelliJ IDEA 2018.3.2\bin&quot; -Dfile.encoding=UTF-8 -classpath &quot;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;D:\Git\Git Repositories\rep1\Study\out&quot; com.dustdawn.DesignPatterns.Creational.BuilderPattern.Client" />
+      <item value="Client" />
+      <item value="construct" />
+      <item value="Director" />
+      <item value="Product" />
+      <item value="concrete Builder 1" />
+      <item value="Concrete Builder 1" />
+      <item value="stack" />
+      <item value="push" />
+      <item value="Integer" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
