@@ -34,8 +34,12 @@
           <option name="url" value="https://gitee.com/cylansad/redisDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dustdawn/work4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IDEA-workspace\workspace_4" />
+    <option name="cloneParentDir" value="H:\IdeaProject\workspace1" />
   </component>
 </application>
